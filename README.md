@@ -59,6 +59,10 @@ EEC's balanced accuracy report yielded a score of 0.925. The Recall score for hi
 
 These results put EEC far above the other algorithms tested in this Credit Risk Analysis.
 
+All models yieled a precision score of 0.01 for high_risk accounts and a precision score of 1.00 for low_risk accounts.
+
+# Summary
+
 
 
 
