@@ -59,11 +59,11 @@ EEC's balanced accuracy report yielded a score of 0.925. The Recall score for hi
 
 These results put EEC far above the other algorithms tested in this Credit Risk Analysis.
 
-All models yieled a precision score of 0.01 for high_risk accounts and a precision score of 1.00 for low_risk accounts.
+Almost all models yieled a precision score of 0.01 for high_risk accounts and a precision score of 1.00 for low_risk accounts. The only exception is that EEC has a precision score of 0.07 for high_risk accounts and a precision score of 1.00 for low_risk accounts.
 
 # Summary
 
-
+From the models shown, the algorithms tested, and the results yielded the answer is clear: In this analysis with this data, EEC performed the best. Coming in with a Balanced Accuracy score of 0.925, a Recall Score of 0.91 for high_risk and a score of 0.94 for low_risk, and a higher precision score for high_risk than all other models, EEC seems to be the most truthworthy option of the six. It was disheartening to see precision scores for high_risk accounts being so low across the board, however. Perhaps an algorithm and/or model can be performed to give more accuracy to these scores. Other than that, from the scores presented I would recommend the EEC model be used.
 
 
 
